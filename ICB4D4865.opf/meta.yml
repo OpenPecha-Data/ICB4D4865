@@ -1,0 +1,125 @@
+id: ICB4D4865
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:28:39.600702'
+last_modified: '2022-06-17T14:28:39.600720'
+parser: null
+source_metadata:
+  title: Swift Rebirth Prayers
+  language: en
+  description: 'A selection of prayers for the swift rebirth (myur byon gsol ’debs)
+    of prominent individuals (arranged alphabetically by subject):'
+  volume:
+    f3021:
+      title: 'The Moonlight of Auspiciousness: Prayer for the Swift Return of the
+        Supreme Tulku'
+      base_file: f3021.txt
+      order: 1
+      parent: Dampa Rinpoche Ngawang Lodrö Nyingpo
+    f49B3:
+      title: 'The Swift Fulfilment of Wishes: A Prayer for the Swift Return of the
+        Supreme Tulku of the Fifth Drubwang Dzogchen Rinpoche'
+      base_file: f49B3.txt
+      order: 2
+      parent: Fifth Dzogchen Rinpoche
+    fEBE6:
+      title: Prayer for Swift Rebirth of the Fourth Dodrupchen Rinpoche
+      base_file: fEBE6.txt
+      order: 3
+      parent: Fourth Dodrupchen Rinpoche
+    f3490:
+      title: Prayer for Swift Rebirth of the Fourth Dodrupchen Rinpoche, Tupten Trinlé
+        Palzangpo
+      base_file: f3490.txt
+      order: 4
+      parent: Fourth Dodrupchen Rinpoche
+    f4213:
+      title: Prayer for the Swift Rebirth of the Fourth Dodrupchen Rinpoche
+      base_file: f4213.txt
+      order: 5
+      parent: Fourth Dodrupchen Rinpoche
+    fB98B:
+      title: A Prayer for the Swift Return of the Fourth Kyabje Dodrupchen Rinpoche
+      base_file: fB98B.txt
+      order: 6
+      parent: Fourth Dodrupchen Rinpoche
+    f0A77:
+      title: 'The Moonlight of Auspiciousness: A Yearning Prayer to the Noble and
+        Glorious Guru Combined with an Aspiration for His Swift Return'
+      base_file: f0A77.txt
+      order: 7
+      parent: Gyurme Tsewang Gyatso
+    f48FA:
+      title: Prayer to Kongtrul Yönten Gyatso
+      base_file: f48FA.txt
+      order: 8
+      parent: Jamgön Kongtrul Lodrö Thaye
+    fABBF:
+      title: Prayer for the Swift Rebirth of Jamyang Khyenrab Tayé
+      base_file: fABBF.txt
+      order: 9
+      parent: Jamyang Khyenrab Tayé
+    fECFC:
+      title: Lamenting Prayer to Jamyang Chökyi Lodrö
+      base_file: fECFC.txt
+      order: 10
+      parent: Jamyang Khyentse Chökyi Lodrö
+    fBAA0:
+      title: Prayer for the Swift Rebirth of Jamyang Khyentse Wangpo
+      base_file: fBAA0.txt
+      order: 11
+      parent: Jamyang Khyentse Wangpo
+    fA202:
+      title: 'Wondrous Light of the Moon: A Prayer for the Swift Appearance of the
+        Supreme Tulku of Vajradhara'
+      base_file: fA202.txt
+      order: 12
+      parent: Jamyang Loter Wangpo
+    f3B15:
+      title: 'The Swift Fulfilment of Wishes: Prayer for the Swift Appearance of the
+        Supreme Tulku of the Mañjughoṣa Guru'
+      base_file: f3B15.txt
+      order: 13
+      parent: Katok Situ Chökyi Gyatso
+    fB6E4:
+      title: 'Cymbals to Invoke a Compassionate Response: A Prayer for Swift Rebirth
+        of Khandro Tsering Chödrön'
+      base_file: fB6E4.txt
+      order: 14
+      parent: Khandro Tsering Chödrön
+    fD0A4:
+      title: 'The Swift Infusion of Blessings: A Lament and Prayer to Invoke the Wisdom
+        Mind of Khenchen Vāgindra on the Occasion of His Passing into the Great Peace
+        of the Dharmadhātu'
+      base_file: fD0A4.txt
+      order: 15
+      parent: Ngawang Samten Lodrö
+    fA800:
+      title: A Prayer for the Swift Rebirth of Tenpai Nyima Rinpoche
+      base_file: fA800.txt
+      order: 16
+      parent: Tenpai Nyima Rinpoche
+    fBDD5:
+      title: A Prayer for the Swift Rebirth of Tenpai Nyima Rinpoche
+      base_file: fBDD5.txt
+      order: 17
+      parent: Tenpai Nyima Rinpoche
+    f33EE:
+      title: 'The Tambura of Devotion: A Prayer for the Swift Appearance of the Supreme
+        Tulku of the All-Seeing Conqueror and Cardinal Guardian of the Land of Snows'
+      base_file: f33EE.txt
+      order: 18
+      parent: Thirteenth Dalai Lama
+    f42B4:
+      title: Prayer for the Swift Rebirth of Kyabjé Trulshik Rinpoche
+      base_file: f42B4.txt
+      order: 19
+      parent: Trulshik Rinpoche
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
